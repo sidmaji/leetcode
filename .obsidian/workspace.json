@@ -11,14 +11,12 @@
             "id": "bf1f8152955f4a2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "1-TwoSum/1-TwoSum.py"
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1-TwoSum"
             }
           }
         ]
@@ -178,12 +176,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bf1f8152955f4a2e",
   "lastOpenFiles": [
-    "217-ContainsDuplicate/217-ContainsDuplicate.py",
-    "README.md"
+    "20-ValidParentheses/20-ValidParentheses.py",
+    "1-TwoSum/1-TwoSum.py",
+    "README.md",
+    "41-FirstMissingPositive/41-FirstMissingPositive.py",
+    "217-ContainsDuplicate/217-ContainsDuplicate.py"
   ]
 }
