@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#9678dc",
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 20,
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "FiraMono Nerd Font Mono",
+  "showRibbon": false,
+  "showViewHeader": false
+}
