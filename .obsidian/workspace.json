@@ -11,12 +11,14 @@
             "id": "bf1f8152955f4a2e",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "1-TwoSum/1-TwoSum.py"
+                "file": "20-ValidParentheses/20-ValidParentheses.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "1-TwoSum"
+              "title": "20-ValidParentheses"
             }
           }
         ]
@@ -177,13 +179,25 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "bf1f8152955f4a2e",
   "lastOpenFiles": [
     "20-ValidParentheses/20-ValidParentheses.py",
+    "20-ValidParentheses/20-ValidParentheses.md",
+    "1-TwoSum/1-TwoSum.md",
     "1-TwoSum/1-TwoSum.py",
+    "Templates/leetcode-problem-solution.md",
+    "Untitled.md",
+    "Templates",
+    "conflict-files-obsidian-git.md",
+    "Templates/leetcode-problem-template.md",
+    "Scripts/leetcode-quickadd.js",
+    "Templates",
+    "scripts/Unconfirmed 258264.crdownload",
+    "Scripts",
     "README.md",
     "41-FirstMissingPositive/41-FirstMissingPositive.py",
     "217-ContainsDuplicate/217-ContainsDuplicate.py"
