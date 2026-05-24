@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "20-ValidParentheses/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,9 +185,10 @@
   },
   "active": "bf1f8152955f4a2e",
   "lastOpenFiles": [
+    "1-TwoSum/README.md",
+    "README.md",
     "41-FirstMissingPositive/41-FirstMissingPositive.py",
-    "20-ValidParentheses/20-ValidParentheses.md",
-    "1-TwoSum/1-TwoSum.md",
+    "20-ValidParentheses/README.md",
     "Templates/leetcode-problem-solution.md",
     "20-ValidParentheses/20-ValidParentheses.py",
     "1-TwoSum/1-TwoSum.py",
@@ -199,7 +200,6 @@
     "Templates",
     "scripts/Unconfirmed 258264.crdownload",
     "Scripts",
-    "README.md",
     "217-ContainsDuplicate/217-ContainsDuplicate.py"
   ]
 }
