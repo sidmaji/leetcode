@@ -1,1 +1,1 @@
-Sid Maji's LeetCode solutions.
+# [Sid Maji's LeetCode](https://leetcode.com/u/sidmaji/) Solutions

@@ -9,7 +9,13 @@ topics:
 # TwoSum
 
 ## Approach
-Initialize an empty hash map (or dictionary in Python). Looping through the **nums** list, check if the difference between the target sum and the current number is present as a key in the hash map. If it is, that means the remaining number needed to achieve the target sum exists in **nums**. Then, return a list with the current index and the index of the difference number, which will be stored as a value in the hash map. Usually, when the current index does not have the necessary value to get the target sum, the current number will be stored in the hash map, with its value being the index.
+Initialize an empty hash map (or dictionary in Python).
+
+Looping through the `nums` list, check whether the difference between the target sum and the current number is present as a key in the hash map.
+
+If it is, that means the remaining number needed to achieve the target sum already exists in `nums`. Then, return a list containing the current index and the index of the difference number, which is stored as the value in the hash map.
+
+Usually, when the current index does not have the necessary value to achieve the target sum, the current number is stored in the hash map, with its value being the current index.
 
 ## Solution
 ```python
@@ -23,5 +29,7 @@ class Solution:
 ```
 
 ## Complexity
-Time Complexity: O(n)
-Space Complexity: O(n)
+- Time Complexity: O(n)
+	- `nums` is looped through once, where `n` is the length of `nums`.
+- Space Complexity: O(n)
+	- Worst case, `hash_map` stores every number and its index in `nums`.
