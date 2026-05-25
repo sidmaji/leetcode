@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-ValidParentheses/README.md",
+                "file": "21-MergeTwoSortedLists/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,21 +185,25 @@
   },
   "active": "bf1f8152955f4a2e",
   "lastOpenFiles": [
-    "1-TwoSum/README.md",
-    "README.md",
-    "41-FirstMissingPositive/41-FirstMissingPositive.py",
-    "20-ValidParentheses/README.md",
-    "Templates/leetcode-problem-solution.md",
+    "21-MergeTwoSortedLists/21-MergeTwoSortedLists.py",
+    "21-MergeTwoSortedLists/README.md",
+    "217-ContainsDuplicate/README.md",
+    "21-MergeTwoSortedLists",
+    "217-ContainsDuplicate/217-ContainsDuplicate.py",
     "20-ValidParentheses/20-ValidParentheses.py",
     "1-TwoSum/1-TwoSum.py",
+    "41-FirstMissingPositive/41-FirstMissingPositive.py",
+    "41-FirstMissingPositive/README.md",
+    "1-TwoSum/README.md",
+    "Templates/leetcode-problem-solution.md",
+    "20-ValidParentheses/README.md",
+    "README.md",
     "Untitled.md",
     "Templates",
     "conflict-files-obsidian-git.md",
     "Templates/leetcode-problem-template.md",
     "Scripts/leetcode-quickadd.js",
     "Templates",
-    "scripts/Unconfirmed 258264.crdownload",
-    "Scripts",
-    "217-ContainsDuplicate/217-ContainsDuplicate.py"
+    "scripts/Unconfirmed 258264.crdownload"
   ]
 }
