@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "125-ValidPalindrome/README.md",
+                "file": "383-RansomNote/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,7 +200,11 @@
   },
   "active": "c2d64036a889d97e",
   "lastOpenFiles": [
+    "383-RansomNote/383-RansomNote.py",
+    "383-RansomNote/README.md",
+    "383-RansomNote/Untitled.md",
     "125-ValidPalindrome/125-ValidPalindrome.py",
+    "383-RansomNote",
     "125-ValidPalindrome/README.md",
     "125-ValidPalindrome/Untitled.md",
     "121-BestTimetoBuyandSellStock/README.md",
@@ -216,8 +220,6 @@
     "21-MergeTwoSortedLists",
     "217-ContainsDuplicate/217-ContainsDuplicate.py",
     "20-ValidParentheses/20-ValidParentheses.py",
-    "1-TwoSum/1-TwoSum.py",
-    "41-FirstMissingPositive/41-FirstMissingPositive.py",
     "1-TwoSum/README.md",
     "20-ValidParentheses/README.md",
     "Untitled.md",
