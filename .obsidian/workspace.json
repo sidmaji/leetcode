@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "383-RansomNote/README.md",
+                "file": "226-InvertBinaryTree/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,8 +200,12 @@
   },
   "active": "c2d64036a889d97e",
   "lastOpenFiles": [
-    "383-RansomNote/383-RansomNote.py",
+    "226-InvertBinaryTree/226-InvertBinaryTree.py",
+    "226-InvertBinaryTree/README.md",
+    "226-InvertBinaryTree/Untitled.md",
     "383-RansomNote/README.md",
+    "226-InvertBinaryTree",
+    "383-RansomNote/383-RansomNote.py",
     "383-RansomNote/Untitled.md",
     "125-ValidPalindrome/125-ValidPalindrome.py",
     "383-RansomNote",
@@ -218,8 +222,6 @@
     "21-MergeTwoSortedLists/README.md",
     "21-MergeTwoSortedLists/21-MergeTwoSortedLists.py",
     "21-MergeTwoSortedLists",
-    "217-ContainsDuplicate/217-ContainsDuplicate.py",
-    "20-ValidParentheses/20-ValidParentheses.py",
     "1-TwoSum/README.md",
     "20-ValidParentheses/README.md",
     "Untitled.md",
