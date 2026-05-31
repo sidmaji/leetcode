@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "242-ValidAnagram/README.md",
+                "file": "704-BinarySearch/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "e11b4c570e51d196",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "704-BinarySearch/704-BinarySearch.py"
+              },
+              "icon": "lucide-file",
+              "title": "704-BinarySearch"
             }
           }
         ],
@@ -200,8 +212,12 @@
   },
   "active": "c2d64036a889d97e",
   "lastOpenFiles": [
-    "242-ValidAnagram/242-ValidAnagram.py",
+    "704-BinarySearch/704-BinarySearch.py",
+    "704-BinarySearch/README.md",
+    "704-BinarySearch/Untitled.md",
     "242-ValidAnagram/README.md",
+    "704-BinarySearch",
+    "242-ValidAnagram/242-ValidAnagram.py",
     "383-RansomNote/383-RansomNote.py",
     "226-InvertBinaryTree/226-InvertBinaryTree.py",
     "217-ContainsDuplicate/217-ContainsDuplicate.py",
@@ -217,8 +233,6 @@
     "125-ValidPalindrome/README.md",
     "125-ValidPalindrome/Untitled.md",
     "121-BestTimetoBuyandSellStock/README.md",
-    "125-ValidPalindrome",
-    "121-BestTimetoBuyandSellStock/121-BestTimetoBuyandSellStock.py",
     "Templates/leetcode-problem-solution.md",
     "217-ContainsDuplicate/README.md",
     "README.md",
