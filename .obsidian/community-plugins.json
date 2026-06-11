@@ -3,5 +3,6 @@
   "vscode-editor",
   "editing-toolbar",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-wakatime"
 ]
